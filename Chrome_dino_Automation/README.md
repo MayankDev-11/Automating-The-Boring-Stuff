@@ -48,3 +48,10 @@ So , if it is not working for you, dont worry.You just need to have a hit-n-tria
 
 So, this part of code should be changed.
 
+
+
+| Modules        | Commands           |
+| ------------- |:-------------:|
+| pyautogui      | pip install pyautogui |
+| PIL      |  pip install pillow  |
+
